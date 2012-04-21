@@ -19,7 +19,7 @@
    * нажати Install MySQL Products
    * в меню Setup Type вибрати Full
    * в меню Configuration -> Security Setting поставити пароль root
-   * перезагрузити компютер
+   * перезагрузити комп`ютер
 
 *Eclipse:*
 
@@ -27,7 +27,7 @@
    * в package Explorer нажимаєм правою кнопкою мишки і в меню вибираєм Import 
    * у вікні Import вибираем Existing Projects into Workspace, Next
    * в пункті Select root directory нажимаєм на кнопку Browse.. 
-і вказуєм папку з проектом, Finish
+   * вказуєм папку з проектом, Finish
 
 *Створення бази даних:*
 
